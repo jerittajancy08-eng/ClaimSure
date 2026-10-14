@@ -1,0 +1,9 @@
+{
+  "UiPath.DocumentProcessing.Contracts": "2.4.0-preview",
+  "UiPath.GSuite.Activities": "3.11.10",
+  "UiPath.Mail.Activities": "2.11.10",
+  "UiPath.OCR.Activities": "4.4.0-preview",
+  "UiPath.PDF.Activities": "4.5.0-preview",
+  "UiPath.System.Activities": "26.8.1",
+  "UiPath.UIAutomation.Activities": "26.10.4"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "1875d2a6-b5ac-45ff-a885-ee191737a6a0",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "claimFolderPath": {
+            "type": "string",
+            "x-default-expression": "\"C:\\Ui Path\\claimsureinput4\"",
+            "default": "C:\\Ui Path\\claimsureinput4"
+          }
+        },
+        "required": [
+          "claimFolderPath"
+        ]
+      }
+    }
+  ]
+}
